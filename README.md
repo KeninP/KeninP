@@ -31,6 +31,7 @@ I keep Kubernetes workloads on Azure and AWS observable, deployable and recovera
 
 | Project | What it shows |
 |---|---|
+| [**SRE Observability — Zero to Hero**](https://github.com/KeninP/sre-observability-zero-to-hero) | Hands-on learning path I write from day-to-day SRE work: a one-command **OpenTelemetry** lab (Collector → Prometheus, Grafana, Jaeger) tested end-to-end in CI, Kubernetes collector setup, **Dynatrace** OTLP + DQL, SLO burn-rate alerts and incident playbooks. |
 | [**voting-app on EKS**](https://github.com/KeninP/example-voting-app) | Multi-service app (Python, Node, .NET, Redis, Postgres). Gated GitHub Actions CI (syntax check → pytest → build), images tagged by commit SHA, pushed to ECR via **OIDC role assumption** (no stored AWS keys), rolled out to **EKS** with rollout verification; packaged as a **Helm** chart. |
 | [**clothing-website on AKS**](https://github.com/KeninP/clothing-website) | Node.js app, Dockerised, two-stage **Azure DevOps** pipeline → **ACR** → **AKS**, Deployment + ConfigMap with resource limits; plus a GitHub Actions → Docker Hub workflow. |
 
