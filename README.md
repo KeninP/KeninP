@@ -5,6 +5,7 @@
 - 🔧 Currently working on: GitHub Actions → ECR → EKS deployments with OIDC (no long-lived keys)
 - 📦 Comfortable with: Docker, Kubernetes, Helm, GitHub Actions, Azure DevOps, Linux, Git
 - 🎯 Looking for: DevOps / Cloud / SRE roles
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kenin-paradeshi7788/)
 
 ## Tech
 
